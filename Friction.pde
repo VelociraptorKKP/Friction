@@ -1,5 +1,4 @@
 Mover m;
-float c = -0.1;
 
 void setup() {
   size(640, 480);
